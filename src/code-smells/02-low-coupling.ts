@@ -77,7 +77,7 @@
     }
 
     class UserSettings {
-  
+
         public person: Person;
         public user: User;
         public settings: Settings;
